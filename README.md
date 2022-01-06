@@ -1,2 +1,0 @@
-# Pipelinetest
-To test pipeline
