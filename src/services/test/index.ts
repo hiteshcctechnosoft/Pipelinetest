@@ -1,7 +1,7 @@
 import { APIGatewayProxyEvent, Context, Handler } from 'aws-lambda'
 
 /**
- * Lambda Handler function
+ * Lambda Handler function ad
  */
 export const handler: Handler = async function (event: APIGatewayProxyEvent, context: Context) {
   return {
